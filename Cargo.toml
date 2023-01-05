@@ -2,9 +2,11 @@
 name = "is_option"
 version = "0.1.0"
 authors = ["Tamo <tamo@meilisearch.com>"]
-edition = "2021"
 license = "MIT OR Apache-2.0"
+description = "Tell you if your type is an `Option<_>`."
 repository = "https://github.com/irevoire/is_option"
+keywords = ["macro"]
+edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
